@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.img-show {
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.text-des {
+	padding: 10px 20px 0px 20px;
+	color: #333;
+	font-size: 16px;
+	font-family:'Battambang', cursive;;
+}

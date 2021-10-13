@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+#header img {
+	width: 100%;
+	margin: 0px;
+}
+.navbar {
+	height: 40px;
+	border-top: 1px solid #CC891A;
+	border-bottom: 2px solid #CC891A;
+	box-sizing: border-box;
+}
+.navbar-nav {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Dangrek,Arial,Helvetica,sans-serif;
+	font-size: 14px;
+}
+.active .fa-home{
+	color: #CC891A;
+	font-size: 16px;
+}
+.ads-top-img {
+	width: 100%;
+	box-shadow: 0px 0px 2px 0px black;
+	overflow: hidden;
+}
+.carousel {
+	box-shadow: 0px 0px 2px 0px black;
+	margin-top: 5px;
+}
+ /* Make the image fully responsive */
+.carousel-inner img {
+     width: 100%;
+	 height: 450px;
+  }
+.top-new {
+	padding-top: 3px;
+	box-shadow: 0px 0px 2px 0px black;
+	overflow: hidden;
+	border: 2px solid #D1A126;
+	cursor: pointer;
+	
+}
+.top-new-img{
+	width: 100%;
+	height: 250px;
+	padding-right:3px; 
+	padding-left: 3px;
+}
+
+.title {
+	padding: 10px;
+	overflow: hidden;
+	height: 70px;
+}
+.title a {
+	font-size: 14px;
+	font-family: 'Koulen';
+	color: #C34244;
+}
+.title a:link {
+	text-decoration: none;
+}
+#footer {
+	width: 100%;
+	height: 140px;
+	overflow: hidden;
+	background-color: #1A1919;
+	border-top: 2px solid #D1A126;
+	border-bottom: 2px solid #D1A126;
+	box-sizing: border-box;
+}
+.list-view {
+	padding-top: 3px;
+	box-shadow: 0px 0px 2px 0px black;
+	overflow: hidden;
+	border: 2px solid #D1A126;
+	cursor: pointer;
+}
+.item-page {
+	box-shadow: 0px 0px 2px 0px black;
+}
+.item-row {
+	border-bottom: 1px solid #D99514;
+}
+
+.item-img {
+	width: 100%;
+	height: 180px;
+	padding: 5px;
+	box-shadow: 0px 0px 2px 0px orange;
+}
+
+.sidebar-ads {
+	position: relative;
+	overflow: visible;
+	box-sizing: border-box;
+	background-color: #e9ebee;
+	border: 2px solid #C4A31A;
+	box-shadow: 0px 0px 2px 0px black;
+}
+.text {
+	height: 180px;
+	padding: 10px;
+}
+.text a {
+	color: #B33458;
+}
+.text a:link {
+	text-decoration: none;
+}
+.text h5{
+	font-size: 15px;
+	font-family: 'Koulen';
+}
+.text p {
+	color: #333;
+	font-size: 13px;
+	font-family:'Battambang', cursive;;
+}
+
+.byline p {
+	font-size: 12px;
+	color: #BB944B;
+}
+

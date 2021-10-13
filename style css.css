@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar {
+	height: 40px;
+	border-top: 1px solid #D1A126;
+	border-bottom: 2px solid #D1A126;
+	box-sizing: border-box;
+}
+.navbar-nav {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Dangrek,Arial,Helvetica,sans-serif;
+	font-size: 14px;
+}
